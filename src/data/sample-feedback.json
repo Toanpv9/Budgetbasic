@@ -1,0 +1,8 @@
+[
+  { "name": "Linh", "school": "Year 2, Business", "topic": "calculator", "rating": 5, "text": "The 50/30/20 calculator showed me I was spending almost 45% on wants. I moved my coffee budget into savings." },
+  { "name": "Khoa", "school": "Year 1, IT", "topic": "story", "rating": 5, "text": "I did the 30-day challenge and saved 1.2 million VND for a new keyboard without asking my parents." },
+  { "name": "Trang", "school": "Year 3, Design", "topic": "knowledge", "rating": 4, "text": "Could you add a lesson about budgeting for freelance income? My pay changes every month." },
+  { "name": "Phuc", "school": "Year 2, Engineering", "topic": "story", "rating": 5, "text": "The scam alert section helped me spot a fake 'easy job' message in a group chat." },
+  { "name": "An", "school": "Year 1, Languages", "topic": "bug", "rating": 3, "text": "On my small phone the chips under the header need a lot of scrolling. Maybe make them smaller?" },
+  { "name": "Vy", "school": "Year 4, Economics", "topic": "calculator", "rating": 4, "text": "Sending the 20% to Savings Goals is really handy. It would be nice to save several goals." }
+]

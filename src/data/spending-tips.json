@@ -1,0 +1,34 @@
+[
+  {
+    "label": "Tip 01",
+    "tone": "text-amber-700",
+    "title": "The 24-hour rule for items over 200k VND",
+    "teaser": "Why do you always want to check out right away late at night?",
+    "backTitle": "Mindset fix",
+    "back": "The dopamine rush fades sharply after 24 hours. Add the item to your cart but don't pay yet. If it still feels important the next morning and doesn't affect your essential costs, then consider buying it.",
+    "icon": "Hourglass"
+  },
+  {
+    "label": "Tip 02",
+    "tone": "text-emerald-700",
+    "title": "Smart grocery shopping & deal hunting",
+    "teaser": "How to cook healthy meals in your room and save up to 40% on food.",
+    "backTitle": "Dorm kitchen secrets",
+    "back": [
+      "1. Always eat before going to the supermarket so you don't overbuy.",
+      "2. Keep a fixed shopping list on your phone.",
+      "3. Shop after 7 PM to pick up vegetables and fresh food marked down 30-50% for same-day use."
+    ],
+    "icon": "ShoppingCart"
+  },
+  {
+    "label": "Tip 03",
+    "tone": "text-amber-700",
+    "honey": true,
+    "title": "The virtual envelope strategy in your banking app",
+    "teaser": "Stop living \"like a king at the start of the month and on instant noodles at the end\".",
+    "backTitle": "Account setup",
+    "back": "Open 2 separate bank accounts: Account A receives your money and covers fixed costs (rent, food); Account B holds only that week's spending money. When Account B is empty, you stop going out, and your food money stays safe!",
+    "icon": "Mail"
+  }
+]

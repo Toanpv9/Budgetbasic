@@ -1,0 +1,7 @@
+[
+  { "min": 0, "icon": "Sprout", "text": "Every big goal starts small. Even 20,000 VND today is a step forward!" },
+  { "min": 25, "icon": "Sparkles", "text": "A quarter of the way there! Set up an automatic transfer so you don't have to think about it." },
+  { "min": 50, "icon": "Flame", "text": "Halfway! This is where most people give up. Keep going, you've got this." },
+  { "min": 75, "icon": "Rocket", "text": "Almost there! Look for one small expense to cut this month to finish faster." },
+  { "min": 100, "icon": "Trophy", "text": "Goal reached! Celebrate a little, then set your next goal." }
+]

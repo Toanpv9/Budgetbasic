@@ -1,0 +1,12 @@
+{
+  "categories": ["Food", "Transport", "Education", "Entertainment", "Shopping", "Utilities", "Miscellaneous"],
+  "defaultBudget": 5000000,
+  "sampleExpenses": [
+    { "date": "2026-09-01", "category": "Utilities", "description": "Room rent & electricity", "amount": 1800000 },
+    { "date": "2026-09-02", "category": "Education", "description": "Economics textbook", "amount": 150000 },
+    { "date": "2026-09-03", "category": "Food", "description": "Lunch at the campus canteen", "amount": 35000 },
+    { "date": "2026-09-03", "category": "Transport", "description": "Fuel for the week", "amount": 70000 },
+    { "date": "2026-09-05", "category": "Entertainment", "description": "Cinema with friends", "amount": 90000 },
+    { "date": "2026-09-06", "category": "Shopping", "description": "New notebook set", "amount": 45000 }
+  ]
+}

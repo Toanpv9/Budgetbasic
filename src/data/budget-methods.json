@@ -1,0 +1,6 @@
+[
+  { "name": "50/30/20 rule", "how": "Split income: 50% needs, 30% wants, 20% savings.", "good": "Simple and easy to remember.", "watch": "Needs can be more than 50% if rent is high.", "bestFor": "Beginners" },
+  { "name": "Envelope method", "how": "Put a fixed amount for each category in separate envelopes or bank accounts.", "good": "You can see exactly when a category is empty.", "watch": "Needs discipline not to move money between envelopes.", "bestFor": "People who overspend" },
+  { "name": "Zero-based budget", "how": "Give every dong a job so income minus plans equals zero.", "good": "Very detailed, nothing is forgotten.", "watch": "Takes time to plan every month.", "bestFor": "Detail lovers" },
+  { "name": "Pay yourself first", "how": "Save a fixed % the day money arrives, spend the rest freely.", "good": "Saving happens automatically.", "watch": "You still need to track spending to avoid running out.", "bestFor": "Busy students" }
+]

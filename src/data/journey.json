@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "badge": "bg-slate-200 text-emerald-700",
+    "label": "Step 1 • Knowledge",
+    "labelTone": "text-emerald-700",
+    "title": "Learn the Basics",
+    "text": "Understand your income, the real difference between \"Needs vs Wants\", and the 5 spending traps students often fall into.",
+    "href": "#/learn/budgeting-basics",
+    "link": "View lesson & quiz",
+    "icon": "ArrowRight",
+    "linkTone": "text-emerald-700"
+  },
+  {
+    "n": 2,
+    "badge": "bg-amber-100 text-amber-700",
+    "label": "Step 2 • Interactive",
+    "labelTone": "text-amber-700",
+    "title": "Practice",
+    "text": "Practice sorting expenses in the student basket mini-game and pass a quick 5-question quiz to earn the Worker Bee badge.",
+    "href": "#/learn/needs-wants-game",
+    "link": "Play the mini-game",
+    "icon": "Gamepad2",
+    "linkTone": "text-amber-700"
+  },
+  {
+    "n": 3,
+    "badge": "bg-emerald-100 text-emerald-950",
+    "label": "Step 3 • Tools",
+    "labelTone": "text-emerald-700",
+    "title": "Make a Plan",
+    "text": "Use the 50-30-20 formula to calculate your budget automatically, set weekly savings goals and track every expense clearly.",
+    "href": "#/tools/50-30-20-calculator",
+    "link": "Open the budget calculator",
+    "icon": "SlidersHorizontal",
+    "linkTone": "text-emerald-700"
+  },
+  {
+    "n": 4,
+    "badge": "bg-slate-300 text-slate-900",
+    "label": "Step 4 • Protection",
+    "labelTone": "text-slate-600",
+    "title": "Avoid Mistakes",
+    "text": "A 3-question checklist before you scan a QR code to pay, the traps of pay-later wallets and credit cards, and answers from Bee Bot.",
+    "href": "#/learn/money-mistakes",
+    "link": "View safety checklist",
+    "icon": "BadgeCheck",
+    "linkTone": "text-slate-600 hover:text-slate-900"
+  }
+]

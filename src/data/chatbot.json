@@ -1,0 +1,267 @@
+{
+  "greeting": "Hi! I'm Bee Bot. Ask me about budgeting, needs vs wants, saving or the 50/30/20 rule. Try one of the suggested questions below!",
+  "fallback": "Sorry, Bee can only answer questions about student budgeting, saving and spending. Try asking \"What is a need?\", \"How much should I save?\" or \"How do I avoid overspending?\".",
+  "quickReplies": [
+    "What is a need?",
+    "How much should I save?",
+    "How do I avoid overspending?",
+    "What is 50/30/20?",
+    "How to spot a scam?"
+  ],
+  "rules": [
+    {
+      "keywords": [
+        "hello",
+        "hi",
+        "hey",
+        "xin chao",
+        "chao"
+      ],
+      "answer": "Hello! What would you like to learn about money today?"
+    },
+    {
+      "keywords": [
+        "50/30/20",
+        "50-30-20",
+        "503020",
+        "rule"
+      ],
+      "answer": "The 50/30/20 rule splits your income: 50% for needs, 30% for wants and 20% for savings. Try it in the calculator.",
+      "link": "#/tools/50-30-20-calculator",
+      "linkLabel": "Open the calculator"
+    },
+    {
+      "keywords": [
+        "need",
+        "want",
+        "difference"
+      ],
+      "answer": "A need is something you must pay for to live or study: rent, basic food, transport to class, required textbooks. A want is nice to have but optional, like milk tea or new clothes. Quick test: could you go without it for 24 hours without hurting your life or studies?",
+      "link": "#/learn/needs-wants-game",
+      "linkLabel": "Play the Needs vs Wants game"
+    },
+    {
+      "keywords": [
+        "overspend",
+        "overspending",
+        "avoid overspending",
+        "impulse",
+        "too much"
+      ],
+      "answer": "To avoid overspending: 1) set a weekly spending limit, 2) track every expense, 3) wait 72 hours before buying wants, 4) turn off shopping app notifications, 5) pay with a separate account that only holds your 'wants' money.",
+      "link": "#/learn/money-mistakes",
+      "linkLabel": "Read Money Mistakes"
+    },
+    {
+      "keywords": [
+        "late",
+        "due date",
+        "subscription",
+        "subscriptions",
+        "unused"
+      ],
+      "answer": "Set reminders 3 days before each bill is due, and review subscriptions every month: cancel anything you didn't use in the last 30 days.",
+      "link": "#/learn/money-mistakes",
+      "linkLabel": "Read Money Mistakes"
+    },
+    {
+      "keywords": [
+        "save",
+        "saving",
+        "savings",
+        "goal",
+        "how much should i save"
+      ],
+      "answer": "A common guideline is to save 20% of your income (the 50/30/20 rule). If that's too much right now, start with 5-10% and increase it later. Save on the day you get money, before spending.",
+      "link": "#/tools/savings-goals",
+      "linkLabel": "Open Savings Goals"
+    },
+    {
+      "keywords": [
+        "emergency",
+        "fund"
+      ],
+      "answer": "An emergency fund covers surprises like a broken phone or bike. A good first target for students is 3-5 million VND.",
+      "link": "#/library",
+      "linkLabel": "See the emergency fund infographic"
+    },
+    {
+      "keywords": [
+        "pay later",
+        "credit",
+        "loan",
+        "debt",
+        "bnpl"
+      ],
+      "answer": "Be careful! Pay-later wallets and credit cards charge high late fees and can hurt your credit history. Only use them if you have a steady income to repay.",
+      "link": "#/learn/money-mistakes",
+      "linkLabel": "Read Money Mistakes"
+    },
+    {
+      "keywords": [
+        "budget",
+        "start",
+        "basic",
+        "income",
+        "expense"
+      ],
+      "answer": "A budget is a plan for your money: list your income, then your fixed and variable expenses, and decide what to save.",
+      "link": "#/learn/budgeting-basics",
+      "linkLabel": "Learn Budgeting Basics"
+    },
+    {
+      "keywords": [
+        "track",
+        "planner",
+        "spend",
+        "spending"
+      ],
+      "answer": "Write down every expense, even 5,000 VND. The Expense Planner adds up your totals for you.",
+      "link": "#/tools/expense-planner",
+      "linkLabel": "Open Expense Planner"
+    },
+    {
+      "keywords": [
+        "tip",
+        "tips",
+        "cheap",
+        "food"
+      ],
+      "answer": "Try the 24-hour rule before buying, cook at home, and shop after 7 PM for discounted fresh food.",
+      "link": "#/learn/spending-tips",
+      "linkLabel": "See spending tips"
+    },
+    {
+      "keywords": [
+        "contact",
+        "feedback",
+        "email",
+        "help"
+      ],
+      "answer": "You can send feedback or contact the team on the Contact page.",
+      "link": "#/contact/feedback",
+      "linkLabel": "Go to Contact"
+    },
+    {
+      "keywords": [
+        "bank",
+        "account",
+        "transfer",
+        "real money"
+      ],
+      "answer": "BudgetBee is for learning only. It is not a bank and cannot move or store real money."
+    },
+    {
+      "keywords": [
+        "thank",
+        "thanks",
+        "cam on"
+      ],
+      "answer": "You're welcome! Keep buzzing toward your goals"
+    },
+    {
+      "keywords": [
+        "part-time",
+        "job",
+        "work",
+        "earn"
+      ],
+      "answer": "Good part-time jobs for students: tutoring, café or shop shifts, freelance design or writing. Never pay a fee to get a job, that's a scam sign.",
+      "link": "#/learn/scam-alert",
+      "linkLabel": "See Scam Alert"
+    },
+    {
+      "keywords": [
+        "scam",
+        "fraud",
+        "fake",
+        "phishing",
+        "otp"
+      ],
+      "answer": "Never share your OTP or password, check the account name before paying by QR, and ignore \"easy job, high pay\" offers that ask for a deposit.",
+      "link": "#/learn/scam-alert",
+      "linkLabel": "Read Scam Alert"
+    },
+    {
+      "keywords": [
+        "split",
+        "share bill",
+        "friends",
+        "lend",
+        "borrow"
+      ],
+      "answer": "When eating out with friends, agree on how to split before ordering. If you lend money, note it down and agree on a return date.",
+      "link": "#/learn/money-mistakes",
+      "linkLabel": "Read Money Mistakes"
+    },
+    {
+      "keywords": [
+        "rent",
+        "room",
+        "dorm"
+      ],
+      "answer": "Rent is a fixed need. Try to keep it under about 35-40% of your income, or share a room to cut costs.",
+      "link": "#/tools/student-profiles",
+      "linkLabel": "See student profiles"
+    },
+    {
+      "keywords": [
+        "tuition",
+        "semester",
+        "textbook"
+      ],
+      "answer": "Start a sinking fund: save a small amount every month so tuition and textbooks don't surprise you at the start of each semester."
+    },
+    {
+      "keywords": [
+        "challenge",
+        "habit"
+      ],
+      "answer": "Try the 30-day savings challenge: one small money habit a day.",
+      "link": "#/tools/savings-challenge",
+      "linkLabel": "Start the challenge"
+    },
+    {
+      "keywords": [
+        "badge",
+        "quiz",
+        "test"
+      ],
+      "answer": "Take the 5-question quiz in Budgeting Basics. Score 4 or more to earn the Worker Bee badge",
+      "link": "#/learn/budgeting-basics",
+      "linkLabel": "Take the quiz"
+    },
+    {
+      "keywords": [
+        "method",
+        "envelope",
+        "zero-based"
+      ],
+      "answer": "There are several budgeting methods: 50/30/20, envelopes, zero-based and pay-yourself-first. Compare them to find your fit.",
+      "link": "#/learn/budget-methods",
+      "linkLabel": "Compare methods"
+    },
+    {
+      "keywords": [
+        "glossary",
+        "meaning",
+        "define",
+        "compound",
+        "interest",
+        "cic"
+      ],
+      "answer": "Check the Money glossary for simple definitions of words like compound interest, BNPL and CIC.",
+      "link": "#/library/glossary-faq",
+      "linkLabel": "Open glossary"
+    },
+    {
+      "keywords": [
+        "lucky money",
+        "tet",
+        "li xi",
+        "gift"
+      ],
+      "answer": "Got lucky money for Tết? Try splitting it: 50% savings, 30% for something you've planned, 20% to enjoy now."
+    }
+  ]
+}

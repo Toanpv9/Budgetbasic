@@ -1,0 +1,52 @@
+[
+  {
+    "eyebrow": "Learn",
+    "title": "Budgeting basics in 5 minutes",
+    "text": "Six key words, a real student budget and a quick quiz. Score 4/5 to earn the Worker Bee badge.",
+    "cta": "Start learning",
+    "link": "#/learn/budgeting-basics",
+    "bg": "from-emerald-500 to-emerald-700",
+    "fg": "text-white",
+    "icon": "BookOpen"
+  },
+  {
+    "eyebrow": "Play",
+    "title": "Need or Want? Test your instinct",
+    "text": "Sort random everyday expenses and see how well you know the difference. A new round every time.",
+    "cta": "Play the game",
+    "link": "#/learn/needs-wants-game",
+    "bg": "from-amber-300 to-amber-400",
+    "fg": "text-amber-950",
+    "icon": "Gamepad2"
+  },
+  {
+    "eyebrow": "Plan",
+    "title": "Split your money with 50/30/20",
+    "text": "Type your monthly income and see how much goes to needs, wants and savings in one click.",
+    "cta": "Open the calculator",
+    "link": "#/tools/50-30-20-calculator",
+    "bg": "from-blue-400 to-blue-700",
+    "fg": "text-white",
+    "icon": "Calculator"
+  },
+  {
+    "eyebrow": "Habit",
+    "title": "Take the 30-day savings challenge",
+    "text": "One small money habit a day. Fill the honeycomb and watch your savings grow.",
+    "cta": "Start the challenge",
+    "link": "#/tools/savings-challenge",
+    "bg": "from-amber-400 to-emerald-500",
+    "fg": "text-amber-950",
+    "icon": "PiggyBank"
+  },
+  {
+    "eyebrow": "Stay safe",
+    "title": "Spot scams before they spot you",
+    "text": "Fake QR codes, fake bank messages and \"easy job, high pay\" offers. Learn the warning signs.",
+    "cta": "Read Scam Alert",
+    "link": "#/learn/scam-alert",
+    "bg": "from-slate-800 to-slate-900",
+    "fg": "text-slate-100",
+    "icon": "ShieldCheck"
+  }
+]

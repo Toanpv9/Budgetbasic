@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "QrCode",
+    "name": "Fake QR codes",
+    "how": "A sticker with a scammer's QR code is placed over a shop's real one, or sent to you in a chat.",
+    "signs": "The receiving name doesn't match the shop.",
+    "protect": "Always check the account name before you confirm a payment."
+  },
+  {
+    "icon": "MessageSquareWarning",
+    "name": "Fake bank messages",
+    "how": "An SMS or email says your account is locked and asks you to click a link to \"verify\".",
+    "signs": "Urgent tone, strange links, requests for OTP codes.",
+    "protect": "Banks never ask for your OTP or password. Open your bank app directly instead of the link."
+  },
+  {
+    "icon": "Briefcase",
+    "name": "\"Easy job, high pay\"",
+    "how": "Online tasks like liking videos pay small amounts at first, then ask you to \"deposit\" money to unlock bigger tasks.",
+    "signs": "You must pay to earn. Pay that's too good for simple work.",
+    "protect": "A real job never asks you to send money first."
+  },
+  {
+    "icon": "Truck",
+    "name": "Fake delivery calls",
+    "how": "Someone claiming to be a shipper asks you to pay for a package you never ordered.",
+    "signs": "You don't remember ordering anything. Pressure to pay fast.",
+    "protect": "Check your order history in the shopping app before paying anything."
+  },
+  {
+    "icon": "BanknoteX",
+    "name": "Instant loan apps",
+    "how": "Apps promise quick loans with no paperwork, then charge huge fees and harass your contacts.",
+    "signs": "Asks for access to your contacts and photos. Unclear interest rates.",
+    "protect": "Only borrow from licensed banks. Talk to family or your school first."
+  }
+]

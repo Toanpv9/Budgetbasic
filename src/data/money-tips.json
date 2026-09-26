@@ -1,0 +1,12 @@
+[
+  { "icon": "Coffee", "text": "Swap one milk tea a week for water and you save over 1.5 million VND a year." },
+  { "icon": "ShoppingCart", "text": "Never shop hungry. You buy up to 30% more when your stomach is empty." },
+  { "icon": "Hourglass", "text": "Wait 72 hours before buying a want. Most of the urge will be gone." },
+  { "icon": "Landmark", "text": "Pay yourself first: move money to savings the day you get paid." },
+  { "icon": "NotebookPen", "text": "Write down every expense for one week. You'll be surprised where money goes." },
+  { "icon": "BellOff", "text": "Turn off shopping app notifications. Fewer sale alerts, fewer impulse buys." },
+  { "icon": "UtensilsCrossed", "text": "Cooking at home 3 times a week can cut your food costs by a third." },
+  { "icon": "PhoneOff", "text": "Never share your OTP code with anyone, not even someone claiming to be the bank." },
+  { "icon": "Target", "text": "Give every savings goal a name and a date. Clear goals are easier to reach." },
+  { "icon": "Bike", "text": "Walk or cycle short trips. It's free exercise and saves fuel money." }
+]

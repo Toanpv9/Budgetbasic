@@ -1,0 +1,7 @@
+[
+  { "icon": "Flame", "name": "FOMO", "trap": "\"Everyone has it, I need it too.\"", "defence": "Ask: would I still want this if nobody could see it?" },
+  { "icon": "Tag", "name": "The sale trap", "trap": "\"It's 50% off, I'm saving money!\"", "defence": "Buying something you don't need at 50% off is still spending 50%." },
+  { "icon": "Anchor", "name": "Anchoring", "trap": "\"It was 800k, now only 400k.\"", "defence": "Judge the price you pay today, not the crossed-out price." },
+  { "icon": "Coffee", "name": "\"It's only a small amount\"", "trap": "\"It's just 30k, it doesn't matter.\"", "defence": "Multiply by 30 days. Small daily habits become big monthly costs." },
+  { "icon": "Gift", "name": "Emotional spending", "trap": "\"I had a hard week, I deserve this.\"", "defence": "Pick a free reward first: a walk, a call with a friend, a good sleep." }
+]

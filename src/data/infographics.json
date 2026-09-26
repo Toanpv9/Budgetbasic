@@ -1,0 +1,29 @@
+[
+  {
+    "title": "The 50-30-20 rule for beginners",
+    "tag": "Free PDF",
+    "category": "Budgeting",
+    "text": "A color-coded chart of the split for budgets from 3 to 8 million VND.",
+    "src": "Money%20infographics%20at%20a%20glance/rules.jpg",
+    "alt": "50-30-20 rule infographic",
+    "fit": "object-contain bg-white"
+  },
+  {
+    "title": "Needs vs Wants sorting matrix",
+    "tag": "A4 Poster",
+    "category": "Needs vs Wants",
+    "text": "20 everyday student expenses compared, with cheaper alternatives.",
+    "src": "Money%20infographics%20at%20a%20glance/needvswant.avif",
+    "alt": "Needs vs Wants sorting infographic",
+    "fit": "object-contain bg-white"
+  },
+  {
+    "title": "Building a 5 million VND emergency fund",
+    "tag": "6-month plan",
+    "category": "Saving",
+    "text": "Save 25,000 VND a day to build a financial safety shield.",
+    "src": "Money%20infographics%20at%20a%20glance/Emergency-Fund-Jar-and-Piggy-Bank-scaled-1.jpeg",
+    "alt": "5 million VND emergency fund infographic",
+    "fit": "object-cover"
+  }
+]

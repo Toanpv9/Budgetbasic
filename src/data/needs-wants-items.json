@@ -1,0 +1,17 @@
+[
+  { "icon": "BookOpen", "name": "Required textbooks for this semester", "answer": "need", "why": "You need them to study and pass your courses." },
+  { "icon": "Coffee", "name": "Large milk tea with all the toppings every afternoon", "answer": "want", "why": "A treat with friends, not something you need to live or study." },
+  { "icon": "Home", "name": "This month's rent & utilities", "answer": "need", "why": "A fixed cost to keep a roof over your head." },
+  { "icon": "Smartphone", "name": "Upgrading to the newest phone while yours still works", "answer": "want", "why": "Your current phone already does the job. The upgrade is a wish." },
+  { "icon": "UtensilsCrossed", "name": "Rice, eggs and vegetables for the week", "answer": "need", "why": "Basic food keeps you healthy and able to study." },
+  { "icon": "Mic", "name": "Concert ticket for your favourite band", "answer": "want", "why": "Fun and memorable, but you can live without it." },
+  { "icon": "Fuel", "name": "Fuel to ride to class", "answer": "need", "why": "You need transport to attend classes." },
+  { "icon": "ShoppingBag", "name": "A third pair of trendy sneakers", "answer": "want", "why": "You already have shoes. This one is about style." },
+  { "icon": "Pill", "name": "Medicine when you are sick", "answer": "need", "why": "Health comes first and can't wait." },
+  { "icon": "Gamepad2", "name": "New game skin during a sale", "answer": "want", "why": "A discount doesn't turn a want into a need." },
+  { "icon": "Globe", "name": "Internet plan for online classes", "answer": "need", "why": "You need it to join classes and submit assignments." },
+  { "icon": "UtensilsCrossed", "name": "Eating out at a buffet every weekend", "answer": "want", "why": "Cooking at home is cheaper. Buffets are a treat." },
+  { "icon": "Laptop", "name": "Laptop for an IT major (you don't own one)", "answer": "need", "why": "For some majors a basic laptop is a study tool. A top-end model would be a want." },
+  { "icon": "Film", "name": "A third streaming subscription", "answer": "want", "why": "Entertainment is nice, but one service is plenty." },
+  { "icon": "Droplet", "name": "Soap, toothpaste and shampoo", "answer": "need", "why": "Basic hygiene is part of everyday living." }
+]

@@ -1,0 +1,57 @@
+{
+  "concepts": [
+    { "icon": "Wallet", "term": "Income", "definition": "All the money you receive each month.", "example": "Allowance from parents + part-time job pay." },
+    { "icon": "Home", "term": "Fixed expenses", "definition": "Costs that stay about the same every month.", "example": "Rent, phone plan, monthly bus pass." },
+    { "icon": "ShoppingCart", "term": "Variable expenses", "definition": "Costs that change from month to month.", "example": "Food, fuel, going out with friends." },
+    { "icon": "CircleCheck", "term": "Needs", "definition": "Things you must pay for to live and study.", "example": "Rent, basic meals, required textbooks." },
+    { "icon": "Coffee", "term": "Wants", "definition": "Nice-to-have things you could live without.", "example": "Milk tea, new clothes, concert tickets." },
+    { "icon": "PiggyBank", "term": "Savings", "definition": "Money you set aside for goals and emergencies.", "example": "Emergency fund, IELTS exam fee." }
+  ],
+  "sampleBudget": {
+    "income": [
+      { "source": "Allowance", "amount": 3500000 },
+      { "source": "Part-time job", "amount": 1500000 }
+    ],
+    "items": [
+      { "name": "Room rent", "type": "Fixed", "group": "Need", "amount": 1800000 },
+      { "name": "Phone & internet", "type": "Fixed", "group": "Need", "amount": 200000 },
+      { "name": "Food & groceries", "type": "Variable", "group": "Need", "amount": 1200000 },
+      { "name": "Fuel & parking", "type": "Variable", "group": "Need", "amount": 300000 },
+      { "name": "Coffee & going out", "type": "Variable", "group": "Want", "amount": 500000 },
+      { "name": "Clothes & hobbies", "type": "Variable", "group": "Want", "amount": 300000 },
+      { "name": "Emergency fund", "type": "Fixed", "group": "Savings", "amount": 700000 }
+    ]
+  },
+  "quiz": [
+    {
+      "question": "Which one is a fixed expense?",
+      "options": ["Monthly room rent", "Eating out", "Movie tickets"],
+      "answer": 0,
+      "explanation": "Rent is the same amount every month, so it is fixed."
+    },
+    {
+      "question": "A large milk tea every afternoon is a...",
+      "options": ["Need", "Want", "Saving"],
+      "answer": 1,
+      "explanation": "It is nice to have, but you can live and study without it."
+    },
+    {
+      "question": "With the 50/30/20 rule and an income of 4,000,000 VND, how much should you save?",
+      "options": ["400,000 VND", "800,000 VND", "1,200,000 VND"],
+      "answer": 1,
+      "explanation": "20% of 4,000,000 VND is 800,000 VND."
+    },
+    {
+      "question": "Which one counts as income?",
+      "options": ["Part-time job pay", "Tuition fee", "Phone bill"],
+      "answer": 0,
+      "explanation": "Income is money coming in. The other two are expenses."
+    },
+    {
+      "question": "\"Pay yourself first\" means...",
+      "options": ["Save first, then spend the rest", "Pay off debts first", "Buy what you want first"],
+      "answer": 0,
+      "explanation": "Move money into savings as soon as you get paid, before spending."
+    }
+  ]
+}

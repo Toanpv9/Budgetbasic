@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Impulse buying",
+    "situation": "It's 11 PM, a flash sale pops up on a shopping app and you buy wireless earbuds you didn't plan for, \"because it's 50% off\".",
+    "consequence": "400,000 VND leaves your wallet in 10 seconds. Next week you're short on food money and the earbuds sit in a drawer.",
+    "fix": "Use the 72-hour rule: put it in your cart, wait 3 days, then buy only if it still fits your 30% wants budget."
+  },
+  {
+    "title": "Ignoring small expenses",
+    "situation": "Every day you spend 10k on parking, 20k on a soft drink and 15k on a snack. You think these amounts are \"nothing\".",
+    "consequence": "45,000 VND x 30 days = 1,350,000 VND a month, almost 1/3 of many students' allowance. Your wallet has an \"invisible leak\".",
+    "fix": "Write down every expense, even 5,000 VND, in the Expense Planner for one month and see where your money really goes."
+  },
+  {
+    "title": "Late payments",
+    "situation": "You forget the due date for your pay-later wallet or phone bill because you were busy with exams.",
+    "consequence": "Late fees and penalty interest pile up, and missed payments can damage your CIC credit history for years.",
+    "fix": "Set phone reminders 3 days before each due date and pay fixed bills first on the day you receive money."
+  },
+  {
+    "title": "Unused subscriptions",
+    "situation": "You signed up for a music app, two streaming services and a cloud storage plan, but only really use one.",
+    "consequence": "4 subscriptions x 60,000-180,000 VND can cost over 400,000 VND a month for things you barely use.",
+    "fix": "Check your bank/app store every month, cancel anything you didn't use in the last 30 days, or share a family plan."
+  },
+  {
+    "title": "Spending without a plan",
+    "situation": "You don't split your allowance at the start of the month and just spend until the money runs out.",
+    "consequence": "\"Like a king at the start of the month, instant noodles at the end.\" Nothing is left for savings or surprises.",
+    "fix": "Make a simple budget on day 1: split your income with the 50/30/20 calculator and pay yourself first (save 10-20% right away)."
+  }
+]

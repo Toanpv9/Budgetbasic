@@ -1,0 +1,5 @@
+[
+  { "icon": "Building2", "name": "Minh, renting a room", "desc": "Year 2, lives in a shared room near campus. Allowance only.", "income": 4500000, "tip": "Rent is high, so needs may pass 50%. Cut wants first, keep saving at least 10%." },
+  { "icon": "Home", "name": "Lan, living at home", "desc": "Year 1, lives with family, no rent to pay.", "income": 3000000, "tip": "With no rent, try saving more than 20%. It's the easiest time to build a habit." },
+  { "icon": "Coffee", "name": "Huy, part-time barista", "desc": "Year 3, allowance plus a weekend part-time job.", "income": 7000000, "tip": "Income changes month to month. Budget on your lowest month and save any extra." }
+]

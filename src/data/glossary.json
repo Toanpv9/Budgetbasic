@@ -1,0 +1,24 @@
+{
+  "terms": [
+    { "term": "Budget", "meaning": "A plan for how you will use your money each month." },
+    { "term": "Income", "meaning": "All the money you receive, such as allowance or salary." },
+    { "term": "Fixed expense", "meaning": "A cost that stays the same each month, like rent." },
+    { "term": "Variable expense", "meaning": "A cost that changes each month, like food or fuel." },
+    { "term": "Emergency fund", "meaning": "Savings kept only for surprises, like a broken phone or illness." },
+    { "term": "Sinking fund", "meaning": "Money saved a little each month for a known future cost, like tuition." },
+    { "term": "Compound interest", "meaning": "Interest earned on both your savings and the interest already added." },
+    { "term": "Interest rate", "meaning": "The % a bank pays you on savings, or charges you on a loan." },
+    { "term": "BNPL (Buy now, pay later)", "meaning": "Paying for something later in instalments. Late payments bring fees." },
+    { "term": "Credit history (CIC)", "meaning": "Vietnam's record of how you repay loans. A bad record makes future loans harder." },
+    { "term": "Impulse buying", "meaning": "Buying something suddenly, without planning, because of emotion." },
+    { "term": "Net worth", "meaning": "What you own minus what you owe." }
+  ],
+  "faq": [
+    { "q": "I only get 3 million VND a month. Can I still save?", "a": "Yes. Start with 5-10% and increase it later. Saving is a habit, not an amount." },
+    { "q": "Should I use 50/30/20 exactly?", "a": "It's a starting point. If rent is high, try 60/20/20 and cut wants first." },
+    { "q": "Where should I keep my emergency fund?", "a": "In a separate savings account you don't use for daily spending, so you're not tempted." },
+    { "q": "Is a credit card bad for students?", "a": "Not always, but only use it if you can pay the full balance every month." },
+    { "q": "How big should my first emergency fund be?", "a": "A good first target for students is 3-5 million VND." },
+    { "q": "Does BudgetBee store my data?", "a": "No. Everything stays in your browser. BudgetBee is a learning site, not a bank." }
+  ]
+}
